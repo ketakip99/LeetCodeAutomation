@@ -92,8 +92,9 @@ Don't want to keep your computer on? Use **GitHub Actions** to run this for free
 Ensure your repository is uploaded to GitHub.
 
 ### 2. Configure GitHub Secrets
-Go to your repo **Settings > Secrets and variables > Actions** and add the following:
+Go to your repo **Settings > Secrets and variables > Actions** and add the following as **Repository Secrets**:
 - `OPENROUTER_API_KEY`: Your OpenRouter key.
+- `GEMINI_API_KEY`: Your Gemini API key.
 - `EMAIL_SENDER`: Your Gmail address.
 - `EMAIL_PASSWORD`: Your Gmail App Password.
 - `EMAIL_RECEIVER`: Your personal email.

@@ -1,6 +1,0 @@
-requests
-beautifulsoup4
-apscheduler
-python-dotenv
-google-genai
-pip-system-certs

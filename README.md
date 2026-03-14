@@ -84,7 +84,26 @@ def twoSum(nums, target):
 
 ---
 
-## 🛡️ License
+## � Cloud Automation (24/7 Free)
+
+Don't want to keep your computer on? Use **GitHub Actions** to run this for free in the cloud.
+
+### 1. Push to GitHub
+Ensure your repository is uploaded to GitHub.
+
+### 2. Configure GitHub Secrets
+Go to your repo **Settings > Secrets and variables > Actions** and add the following:
+- `OPENROUTER_API_KEY`: Your OpenRouter key.
+- `EMAIL_SENDER`: Your Gmail address.
+- `EMAIL_PASSWORD`: Your Gmail App Password.
+- `EMAIL_RECEIVER`: Your personal email.
+
+### 3. Profit
+The automation is already configured in `.github/workflows/daily_leetcode.yml` to run every day at **08:00 UTC**. You can also trigger it manually from the **Actions** tab in your repository.
+
+---
+
+## �🛡️ License
 Built for the community. Use it, break it, solve.
 
 **Happy Coding.** 🚀
